@@ -1,4 +1,10 @@
+# Silvia Gonzalez-Mendez
+
 # Lawyer
+
+# Contact Information
+- Email: Silviaraquelg459@gmail.com
+- Cell Phone: 240-626-5504
 
 # About Me
 Hello! I am an experienced Lawyer and immigration and corporate professional with over 8 years of proven expertise in immigration law and corporate compliance. With skills in legal research and analysis, contract negotiation, regulatory compliance, and client advocacy, I am able to develop strategic legal solutions, and achieve successful outcomes for diverse clients. I am adept at using Visual Studio Code, Git/GitHub, and Linux/Unix-based systems.
@@ -15,15 +21,22 @@ You can find me here on {LinkedIn}_, Twitter or Facebook
 ### Projects
 
 #### Excel Side Business
- - image
- - Report-summary of the project
+ - Project 1 Summary 
+ - Image
+ - Project 1 Write Up
 
 ***
 #### Course Grade Calculator
- - image
- - write up
+ - Project 2 Summary
+ - Image
+ - Project 2 Write Up
 
 ***
 #### Project 3 Title
- - image
+ - Project 3 Summary 
+ - Image
+ - Project 3 Write Up
+
+
+
  - write up
