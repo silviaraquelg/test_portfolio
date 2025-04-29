@@ -14,7 +14,7 @@ Hello! I am an experienced Lawyer and immigration and corporate professional wit
 My versatile skill set, commitment to equal justice, and passion for empowering individuals and businesses makes me a valuable asset to any team or organization. In my spare time, I enjoy volunteering with immigrant support organizations and staying informed about the business marketplace.
 
 ### Connect with me
-[LinkedIn](https://www.linkedin.com/in/silvia-gonzalez-mendez-7904862ba)
+[LinkedIn](https://www.linkedin.com/in/silvia-gonzalez-mendez-7904862ba/)
 
 ### Education
 ## Bachelor of Arts in Psychology and Political Science ###
