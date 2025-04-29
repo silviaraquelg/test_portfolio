@@ -24,35 +24,29 @@ You can find me here on {LinkedIn}_, Twitter or Facebook
 
 #### Excel Side Business
  - Project 1 Summary 
+
  - ![Excel Side Business](IMG/Excelsidebuisness.png)
  - I was assigned to create a project based on any item I would want to market, and to calculate how much profit I could potentially make from selling it. The goal was to determine whether the item would be a worthwhile investment. I chose to focus on handbags, and through the project, I was able to track monthly loan payments and estimate potential profits to see if the business idea would be financially sustainable.
--To complete this project, I used Excel to create spreadsheets that tracked costs, loan payments, and monthly profits.
--A challenge I faced was accurately calculating monthly loan payments and predicting realistic profit margins. It was difficult at first to balance production costs, loan repayments, and expected revenue.
--My goal was to understand whether selling handbags could be a profitable and sustainable business idea. I achieved this by building a complete financial model and determining that the project could potentially be profitable with careful planning. If I were to take this project further, I would like to improve by doing more detailed market research, such as surveying potential customers, and exploring different types of materials and styles to better meet market demand.
--In conclusion,this project helped me understand the financial planning needed to start a side business. By calculating profits and analyzing costs, I learned how important it is to carefully manage expenses and pricing.
-
-
-
-
-
-
-
-
-
-
-
-
-
+- To complete this project, I used Excel to create spreadsheets that tracked costs, loan payments, and monthly profits.
+- A challenge I faced was accurately calculating monthly loan payments and predicting realistic profit margins. It was difficult at first to balance production costs, loan repayments, and expected revenue.
+- My goal was to understand whether selling handbags could be a profitable and sustainable business idea. I achieved this by building a complete financial model and determining that the project could potentially be profitable with careful planning. If I were to take this project further, I would like to improve by doing more detailed market research, such as surveying potential customers, and exploring different types of materials and styles to better meet market demand.
+- In conclusion,this project helped me understand the financial planning needed to start a side business. By calculating profits and analyzing costs, I learned how important it is to carefully manage expenses and pricing.
 
 ***
 #### Course Grade Calculator
  - Project 2 Summary
+
  - ![Course Grade Calculator](IMG/coursegradecalculator.png)
- - Project 2 Write Up
+ - I was assigned to create a Grade Calculator that helps track college course grades and project the final GPA based on assignment scores. I made a grade calculator to help me stay organized, set academic goals, and prioritize my efforts in my courses.
+- I used Excel to create the Grade Calculator and built formulas for automatic grade calculations, used conditional formatting for letter grades, and created an annotated pie chart to show the weight of each assignment type.
+- One challenge I faced was setting up correct formulas to automatically calculate final grades and assign letter grades. At first, my conditional statements were incorrect, but I overcame this by reviewing examples online and double-checking my formulas with other peers input.
+- I set out to create a functional Grade Calculator that would simplify tracking and projecting final grades. I achieved my goal, but if I could take it further, I would add features that included goal setting and highlighting my lowest grades.
+- I created a Grade Calculator to help myself stay on track with my grades, project my GPA, and prioritize assignments. The tool uses formulas, weights, and conditional formatting to make academic planning easier and more accurate.
 
 ***
 #### Budget Tracker
  - Project 3 Summary 
+
  - ![Budget Tracker](IMG/budgettracker.png)
  - Project 3 Write Up
 
