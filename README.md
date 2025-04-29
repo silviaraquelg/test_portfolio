@@ -13,7 +13,8 @@ Hello! I am an experienced Lawyer and immigration and corporate professional wit
 
 My versatile skill set, commitment to equal justice, and passion for empowering individuals and businesses makes me a valuable asset to any team or organization. In my spare time, I enjoy volunteering with immigrant support organizations and staying informed about the business marketplace.
 
-You can find me here on {LinkedIn}_, Twitter or Facebook 
+## Connect with me
+![LinkedIn] (www.linkedin.com/in/silvia-gonzalez-mendez-7904862ba)
 
 ### Education
 ## Bachelor of Arts in Psychology and Political Science ###
@@ -53,9 +54,4 @@ You can find me here on {LinkedIn}_, Twitter or Facebook
  - A challenge I faced was learning how to correctly allocate money into different categories and how to prioritize saving. I overcame this by researching budgeting strategies and practicing different ways to distribute my income more effectively.
  - I set out to achieve a complete yearly budget tracker, and I was successful in tracking all my expenses per month and per year. I was also able to calculate my monthly and annual income and leave room for personal spending. If I could take it further, I would add automatic alerts for when spending in a category is too high and possibly include graphs for better visual tracking.
  - I created a yearly budget tracker to manage income, savings, and expenses. This project helped me stay organized, prioritize my financial goals, and develop better saving habits as a college student.
-
-
-
-
-
 
