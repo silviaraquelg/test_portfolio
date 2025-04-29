@@ -1,3 +1,5 @@
+![Banner](IMG\Banner.png)
+
 # Silvia Gonzalez-Mendez
 
 # Lawyer
