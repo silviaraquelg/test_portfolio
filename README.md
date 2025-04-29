@@ -24,19 +24,19 @@ You can find me here on {LinkedIn}_, Twitter or Facebook
 
 #### Excel Side Business
  - Project 1 Summary 
- - Image
+ - !(IMG/Excelsidebuisness.png)
  - Project 1 Write Up
 
 ***
 #### Course Grade Calculator
  - Project 2 Summary
- - Image
+ - !(IMG/coursegradecalculator.png)
  - Project 2 Write Up
 
 ***
-#### Project 3 Title
+#### Budget Tracker
  - Project 3 Summary 
- - Image
+ - !(IMG/budgettracker.png)
  - Project 3 Write Up
 
 
