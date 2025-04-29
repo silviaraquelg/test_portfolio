@@ -1,4 +1,4 @@
-![Banner](IMG\Banner.png)
+![Banner](IMG/Banner.png)
 
 # Silvia Gonzalez-Mendez
 
