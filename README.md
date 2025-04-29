@@ -48,5 +48,14 @@ You can find me here on {LinkedIn}_, Twitter or Facebook
  - Project 3 Summary 
 
  - ![Budget Tracker](IMG/budgettracker.png)
- - Project 3 Write Up
+ - I was assigned to make a budget planner to track my expenses, including biweekly or monthly income, current savings, savings goals, and spending habits such as shopping, entertainment, dining out, and car maintenance. As a college student, there are many temptations to overspend, so the best way to stay organized is to plan ahead and get notified when going over budget.
+ - I used Microsoft Excel to create my budget planner.
+ - A challenge I faced was learning how to correctly allocate money into different categories and how to prioritize saving. I overcame this by researching budgeting strategies and practicing different ways to distribute my income more effectively.
+ - I set out to achieve a complete yearly budget tracker, and I was successful in tracking all my expenses per month and per year. I was also able to calculate my monthly and annual income and leave room for personal spending. If I could take it further, I would add automatic alerts for when spending in a category is too high and possibly include graphs for better visual tracking.
+ - I created a yearly budget tracker to manage income, savings, and expenses. This project helped me stay organized, prioritize my financial goals, and develop better saving habits as a college student.
+
+
+
+
+
 
