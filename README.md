@@ -25,7 +25,24 @@ You can find me here on {LinkedIn}_, Twitter or Facebook
 #### Excel Side Business
  - Project 1 Summary 
  - ![Excel Side Business](IMG/Excelsidebuisness.png)
- - Project 1 Write Up
+ - I was assigned to create a project based on any item I would want to market, and to calculate how much profit I could potentially make from selling it. The goal was to determine whether the item would be a worthwhile investment. I chose to focus on handbags, and through the project, I was able to track monthly loan payments and estimate potential profits to see if the business idea would be financially sustainable.
+-To complete this project, I used Excel to create spreadsheets that tracked costs, loan payments, and monthly profits.
+-A challenge I faced was accurately calculating monthly loan payments and predicting realistic profit margins. It was difficult at first to balance production costs, loan repayments, and expected revenue.
+-My goal was to understand whether selling handbags could be a profitable and sustainable business idea. I achieved this by building a complete financial model and determining that the project could potentially be profitable with careful planning. If I were to take this project further, I would like to improve by doing more detailed market research, such as surveying potential customers, and exploring different types of materials and styles to better meet market demand.
+-In conclusion,this project helped me understand the financial planning needed to start a side business. By calculating profits and analyzing costs, I learned how important it is to carefully manage expenses and pricing.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ***
 #### Course Grade Calculator
